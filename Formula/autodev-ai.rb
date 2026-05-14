@@ -1,4 +1,4 @@
-# Bumped 2026-05-14 to PyPI 0.1.0a4 publish.
+# Backfilled 2026-05-14 from real PyPI 0.1.0a4 publish.
 # URL points to canonical PyPI sdist; sha256 from https://pypi.org/pypi/autodev-ai/0.1.0a4/json
 # (independently re-verified by curl + shasum -a 256).
 # `brew audit --strict` should now pass.
